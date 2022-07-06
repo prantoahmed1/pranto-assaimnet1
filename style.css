@@ -1,0 +1,149 @@
+body{ font-family: 'Poppins', sans-serif;
+        margin:0 ;
+}
+
+
+.home-page{
+    text-align: center;
+
+    margin-top: 200px;
+}
+h1{
+ font-size: 58px;
+
+ color: black;
+}
+p{
+    padding-bottom: 10px;
+}
+.link-button{
+
+    text-decoration: none;
+
+    background-color: #FC3D14 ;
+
+    padding: 10px 30px;
+    width: 500px;
+    border-radius: 10px;
+
+    font-size: 20px;
+}
+.donte-page{ 
+    margin-top: 200px;
+}
+.donte-paragraph{ 
+    text-align: center;}
+    
+
+ 
+    .box-1{text-decoration: none;
+        font-size: 30px;
+         color: black;
+         background-color:#F4F6F6 ;
+         padding: 35px 25px;
+         text-align: center;
+         width: 120px;
+          margin-left: 22px;
+          border-radius: 5px;
+          
+     
+      }
+      .box-2{text-decoration: none;
+        font-size: 30px;
+         color:red;
+         background-color: #F4F6F6 ;
+        
+         padding: 35px 25px;
+         text-align: center;
+         width: 120px;
+         margin-left: 22px;
+          border-radius: 5px;
+          
+          
+          border: 2px solid red;
+      }
+      .box-3{text-decoration: none;
+        font-size: 30px;
+         color: black;
+         background-color: #F4F6F6 ;
+    
+         padding: 35px 25px;
+         text-align: center;
+         width: 120px;
+         margin-left: 22px;
+          border-radius: 5px;
+          
+     
+      }
+      
+    
+      .box-4{text-decoration: none;
+        font-size: 30px;
+         color: black;
+         background-color: #F4F6F6 ;
+         padding: 35px 25px;
+         text-align: center;
+         width: 120px;
+         margin-left: 22px;
+          border-radius: 5px;
+          
+     
+      }
+    
+      .box-5{text-decoration: none;
+        font-size: 30px;
+         color: black;
+         background-color:#F4F6F6 ;
+         padding: 35px 25px;
+         text-align: center;
+         width: 120px;
+         margin-left: 22px;
+          border-radius: 5px;
+          
+        
+        
+   
+      }
+        
+ 
+     .box{ margin-left: 150px;
+      
+     
+   
+    
+    padding-top: 20px;
+      
+     }
+
+     .donate{
+
+        text-align: center;
+
+        padding-top: 50px;
+        padding-bottom: 200px;
+     }
+     .size{
+        font-size: 33px;
+     }
+    
+     .amount{
+        font-size: 15px;
+        padding-bottom: 10px;
+        border-bottom: 1px solid #CCD1D1  ;
+      margin-left: 280px;
+        width: 800px;
+        color:#CCD1D1  ;
+     }
+     .link-button1{
+
+        text-decoration: none;
+    
+        background-color: #FC3D14 
+        ;
+        padding: 10px 30px;
+        width: 500px;
+        border-radius: 10px;
+    
+        font-size: 20px;
+    }
+    .button{padding-top: 20px;}
