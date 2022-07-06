@@ -147,3 +147,51 @@ p{
         font-size: 20px;
     }
     .button{padding-top: 20px;}
+
+    .topbar{
+
+        text-align: center;
+    }
+    .division-1{
+
+        padding-top: 60px;
+        padding-left: 20px;
+         
+         height: 280px;
+
+         width: 330px;
+         border-radius:5px ;
+         background-color: #EBF5FB ;
+         
+    }
+
+    .division-2{
+        padding-top: 60px;
+        padding-left: 20px;
+         
+         height: 280px;
+
+         width: 330px;
+         border-radius:5px ;
+         margin-left: 25px;
+       background-color:#FEF1EE 
+       ;
+    }
+    .division-3{
+        padding-top: 60px;
+        padding-left: 20px;
+        
+         height: 280px;
+
+         width: 330px;
+         border-radius:5px ;
+         margin-left: 25px;
+       background-color: #FEF5E7 ;
+    }
+    .description-donateplan{
+      
+padding-left: 120px;
+
+     display: flex;
+     padding-bottom:150px ;
+    }
