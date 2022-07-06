@@ -1,7 +1,7 @@
 body{ font-family: 'Poppins', sans-serif;
         margin:0 ;
 }
-
+.top-banner{margin-bottom: 200px;}
 
 .home-page{
     text-align: center;
@@ -29,7 +29,7 @@ p{
     font-size: 20px;
 }
 .donte-page{ 
-    margin-top: 200px;
+    margin-bottom: 200px;
 }
 .donte-paragraph{ 
     text-align: center;}
@@ -188,6 +188,10 @@ p{
          margin-left: 25px;
        background-color: #FEF5E7 ;
     }
+
+    .donation-plan{
+        margin-bottom:200px ;
+    }
     .description-donateplan {
       padding-left: 120px;
 
@@ -197,7 +201,7 @@ p{
     }
     .how-contribute{
         display: flex;
-        margin-top: 200px;
+        margin-bottom: 200px;
     }
     .half-width{ padding-left: 125px;
         width:40%
@@ -222,4 +226,9 @@ p{
         color: white;
             font-size: 20px;
     
+    
     }
+
+    
+
+    
