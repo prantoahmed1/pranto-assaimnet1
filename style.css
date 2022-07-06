@@ -123,7 +123,7 @@ p{
         padding-bottom: 200px;
      }
      .size{
-        font-size: 33px;
+        font-size: 45px;
      }
     
      .amount{
@@ -188,10 +188,38 @@ p{
          margin-left: 25px;
        background-color: #FEF5E7 ;
     }
-    .description-donateplan{
-      
-padding-left: 120px;
+    .description-donateplan {
+      padding-left: 120px;
+
 
      display: flex;
-     padding-bottom:150px ;
+    
+    }
+    .how-contribute{
+        display: flex;
+        margin-top: 200px;
+    }
+    .half-width{ padding-left: 125px;
+        width:40%
+    }
+    .half-width img{
+        width:80%;
+        height: 120%;
+        border-radius: 5px;
+        padding-right:100px;
+    }
+    .button-link{
+
+    
+
+            text-decoration: none;
+        
+            background-color: #FC3D14 
+            ;
+            padding: 12px 35px;
+            width: 550px;
+            border-radius: 5px;
+        color: white;
+            font-size: 20px;
+    
     }
