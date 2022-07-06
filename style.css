@@ -1,12 +1,23 @@
 body{ font-family: 'Poppins', sans-serif;
         margin:0 ;
 }
-.top-banner{margin-bottom: 200px;}
+.top-banner{background-image: url(donation5.jpg);
+    width: 100%; 
+    background-repeat: no-repeat;
+     background-size: cover;
+    margin-bottom: 200px;
+margin-top: 0;
+    
+    height: 100vh;
+    overflow: hidden;
+    object-fit: cover;
+    object-position: bottom top;
+  }
 
 .home-page{
     text-align: center;
 
-    margin-top: 200px;
+ 
 }
 h1{
  font-size: 58px;
@@ -229,6 +240,77 @@ p{
     
     }
 
-    
 
+.work-img{
+    display:flex;
+    width:20%;
+    margin-left: 70px;
+}
+    .work-img img{
+        height: 350px;
+
+        width: 400px;
+        padding-left: 40px;
+        
+    }
+    .working-site{
+        margin-bottom: 200px;
+    }
+    .work-speech{
+        text-align: center;
+    }
+
+    .updates{
+        text-align: center;
+    }
+
+    .subscribtion-site{
+
+        font-size: 20px;
+
+    }
     
+    .subscribtion-site button{ height: 43px;
+        width: 120px;
+        font-size: 20px;
+ margin-right: 35px;
+ margin-top: 78px;
+ background-color: #FC3D14;
+    }
+    .email-sign{
+  
+        width: 400px;
+        height: 32px;
+        padding: 5px;
+        margin-left: 130px;
+        margin-top: 78px;
+        background-color: #CDC6C2 ;
+        border-radius: 5px;
+    }
+    .subscribtion-site{display: flex;
+      
+    width: 800px;
+height: 200px;
+
+margin-left: 280px;
+background-color:#F9EFE9  ;
+
+
+border-radius: 5px;
+} 
+.about-site-updates{
+    margin-bottom: 200px;
+}
+
+footer{
+    text-align: center;
+    height: 160px;
+    background-color:  black;
+}
+h3{
+    padding-top: 50px;
+    color: red;
+}
+h5{
+    color: white;
+}
