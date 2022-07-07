@@ -65,15 +65,13 @@ font-size: 17px;}
       .box-2{text-decoration: none;
         font-size: 30px;
          color:red;
-         background-color: #F4F6F6 ;
+         background-color: #F7A38F;
         
          padding: 35px 25px;
          text-align: center;
          width: 120px;
          margin-left: 22px;
           border-radius: 5px;
-          
-          
           border: 2px solid red;
       }
       .box-3{text-decoration: none;
@@ -255,6 +253,7 @@ font-size: 17px;}
 
         width: 400px;
         padding-left: 40px;
+        border-radius: 10px;
         
     }
     .working-site{
