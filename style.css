@@ -1,13 +1,12 @@
 body{ font-family: 'Poppins', sans-serif;
         margin:0 ;
 }
-.top-banner{background-image: url(donation5.jpg);
+.top-banner{background-image: url(donation6.jpg);
     width: 100%; 
     background-repeat: no-repeat;
      background-size: cover;
     margin-bottom: 200px;
-margin-top: 0;
-    
+   margin-top: 0;
     height: 100vh;
     overflow: hidden;
     object-fit: cover;
@@ -19,20 +18,22 @@ margin-top: 0;
 
  
 }
-h1{
- font-size: 58px;
+.home-page-text{margin-top: 150px;
+ font-size: 55px;
 
- color: black;
+ color: white;
 }
-p{
-    padding-bottom: 10px;
+.home-page-text2{
+    color: white;
+    padding-bottom: 20px;
 }
+
 .link-button{
 
     text-decoration: none;
 
     background-color: #FC3D14 ;
-
+   color: white;
     padding: 10px 30px;
     width: 500px;
     border-radius: 10px;
@@ -46,6 +47,8 @@ p{
     text-align: center;}
     
 
+p{color: #DDDBD9 ;
+font-size: 17px;}
  
     .box-1{text-decoration: none;
         font-size: 30px;
@@ -151,6 +154,7 @@ p{
     
         background-color: #FC3D14 
         ;
+        color:white;
         padding: 10px 30px;
         width: 500px;
         border-radius: 10px;
